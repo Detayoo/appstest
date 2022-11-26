@@ -126,39 +126,41 @@ const TesterOverview = () => {
               </div>
               {createAcc && (
                 <div>
-                  <p className="font-[500]  pl-[15px] pt-[15px]">
-                    WHERE YOU CAN FIND THIS FEATURE:
-                  </p>
-                  <p
-                    className={`py-[14px] text-black/70 bg-white  pl-[15px] mt-[5px] ml-[15px] rounded-[5px] `}
-                  >
-                    “My account” button global site header
-                  </p>
+                  <div className="modal__move">
+                    <p className="font-[500]  pl-[15px] pt-[15px]">
+                      WHERE YOU CAN FIND THIS FEATURE:
+                    </p>
+                    <p
+                      className={`py-[14px] text-black/70 bg-white  pl-[15px] mt-[5px] ml-[15px] rounded-[5px] `}
+                    >
+                      “My account” button global site header
+                    </p>
 
-                  <p className="font-[500] mt-[12px] pl-[15px] py-[14px]">
-                    WHAT YOU SHOULD FIND THERE/TEST FOR:
-                  </p>
-                  <p className="pl-[15px] text-black/70 bg-white py-[15px] ml-[15px] rounded-[5px]">
-                    This feature allows users to quickly create a new account
-                    from any page. <br /> <br />{" "}
-                    <span className="text-black/90 font-[500]">
-                      Expected behaviour:{" "}
-                    </span>
-                    <br /> Upon clicking the “My account” button, as an
-                    unauthenticated user, a modal should appear where you can
-                    select the “Create Account” option. After completing the
-                    required fields and submitting the form, the modal should
-                    close and “My account” menu should be updated to reflect the
-                    customer name.
-                  </p>
-                  <div className="flex justify-end mt-[50px]">
-                    <PrimaryButton
-                      onClick={() =>
-                        Router.push("/tester/available-tests/submit-bug")
-                      }
-                      text="Submit bug"
-                      className="text-right px-[28px] py-[12px] mr-[25px]"
-                    />
+                    <p className="font-[500] mt-[12px] pl-[15px] py-[14px]">
+                      WHAT YOU SHOULD FIND THERE/TEST FOR:
+                    </p>
+                    <p className="pl-[15px] text-black/70 bg-white py-[15px] ml-[15px] rounded-[5px]">
+                      This feature allows users to quickly create a new account
+                      from any page. <br /> <br />{" "}
+                      <span className="text-black/90 font-[500]">
+                        Expected behaviour:{" "}
+                      </span>
+                      <br /> Upon clicking the “My account” button, as an
+                      unauthenticated user, a modal should appear where you can
+                      select the “Create Account” option. After completing the
+                      required fields and submitting the form, the modal should
+                      close and “My account” menu should be updated to reflect
+                      the customer name.
+                    </p>
+                    <div className="flex justify-end mt-[50px]">
+                      <PrimaryButton
+                        onClick={() =>
+                          Router.push("/tester/available-tests/submit-bug")
+                        }
+                        text="Submit bug"
+                        className="text-right px-[28px] py-[12px] mr-[25px]"
+                      />
+                    </div>
                   </div>
                 </div>
               )}

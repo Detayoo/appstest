@@ -7,6 +7,7 @@ import TestersDashboardLayout from "../../../layouts/TestersDashboardLayout";
 
 const Each = () => {
   const { testerStatus, setTesterStatus } = useTester();
+
   const renderStatus = () => {
     return (
       <>

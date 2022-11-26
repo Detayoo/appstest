@@ -30,7 +30,7 @@ const NewTests = () => {
         <div className="bg-lightAsh flex  pl-[2px]  items-center text-[13px]">
           <div className="flex justify-center items-center ml-[-7px] h-[30px] w-[5%] ">
             <div className="relative w-[35px] h-[35px]">
-              <Image src="/icons/Blue Bug.svg" layout="fill" />
+              <Image alt='' src="/icons/Blue Bug.svg" layout="fill" />
             </div>
           </div>
           <div className="w-[10%] flex justify-center items-center min-h-[100px] p-[10px] ">
@@ -40,7 +40,7 @@ const NewTests = () => {
             The flow of quickly adding a link to a document to the group is
             interrupted if the user clicks + more documents in the search pop-up
             <div className="relative w-[53px] h-[35px] self-end">
-              <Image src="/icons/New.svg" layout="fill" />
+              <Image alt='' src="/icons/New.svg" layout="fill" />
             </div>
           </div>
           <div className="w-[10%]">Wizzy T.</div>
@@ -50,7 +50,7 @@ const NewTests = () => {
           <div className="w-[10%] py-[10px] px-[15px]">6 minutes ago</div>
           <div className="w-[10%] py-[10px] px-[15px]s">
             <div className="relative w-[35px] h-[35px]">
-              <Image src="/icons/Eye.svg" layout="fill" />
+              <Image alt='' src="/icons/Eye.svg" layout="fill" />
             </div>
           </div>
         </div>
@@ -58,7 +58,7 @@ const NewTests = () => {
         <div className="bg-white flex  pl-[2px]  items-center text-[13px]">
           <div className="flex justify-center items-center ml-[-7px] h-[30px] w-[5%] ">
             <div className="relative w-[35px] h-[35px]">
-              <Image src="/icons/Blue Bug.svg" layout="fill" />
+              <Image alt='' src="/icons/Blue Bug.svg" layout="fill" />
             </div>
           </div>
           <div className="w-[10%] flex justify-center items-center min-h-[100px] p-[10px] ">
@@ -68,7 +68,7 @@ const NewTests = () => {
             The flow of quickly adding a link to a document to the group is
             interrupted if the user clicks + more documents in the search pop-up
             <div className="relative w-[53px] h-[35px] self-end">
-              <Image src="/icons/New.svg" layout="fill" />
+              <Image alt='' src="/icons/New.svg" layout="fill" />
             </div>
           </div>
           <div className="w-[10%]">Wizzy T.</div>
@@ -78,7 +78,7 @@ const NewTests = () => {
           <div className="w-[10%] py-[10px] px-[15px]">6 minutes ago</div>
           <div className="w-[10%] py-[10px] px-[15px]s">
             <div className="relative w-[35px] h-[35px]">
-              <Image src="/icons/Eye.svg" layout="fill" />
+              <Image alt='' src="/icons/Eye.svg" layout="fill" />
             </div>
           </div>
         </div>
@@ -86,7 +86,7 @@ const NewTests = () => {
         <div className="bg-lightAsh flex  pl-[2px]  items-center text-[13px]">
           <div className="flex justify-center items-center ml-[-7px] h-[30px] w-[5%] ">
             <div className="relative w-[35px] h-[35px]">
-              <Image src="/icons/Blue Bug.svg" layout="fill" />
+              <Image alt='' src="/icons/Blue Bug.svg" layout="fill" />
             </div>
           </div>
           <div className="w-[10%] flex justify-center items-center min-h-[100px] p-[10px] ">
@@ -96,7 +96,7 @@ const NewTests = () => {
             The flow of quickly adding a link to a document to the group is
             interrupted if the user clicks + more documents in the search pop-up
             <div className="relative w-[53px] h-[35px] self-end">
-              <Image src="/icons/New.svg" layout="fill" />
+              <Image alt='' src="/icons/New.svg" layout="fill" />
             </div>
           </div>
           <div className="w-[10%]">Wizzy T.</div>
@@ -106,7 +106,7 @@ const NewTests = () => {
           <div className="w-[10%] py-[10px] px-[15px]">6 minutes ago</div>
           <div className="w-[10%] py-[10px] px-[15px]s">
             <div className="relative w-[35px] h-[35px]">
-              <Image src="/icons/Eye.svg" layout="fill" />
+              <Image alt='' src="/icons/Eye.svg" layout="fill" />
             </div>
           </div>
         </div>
@@ -114,7 +114,7 @@ const NewTests = () => {
         <div className="bg-white flex  pl-[2px]  items-center text-[13px]">
           <div className="flex justify-center items-center ml-[-7px] h-[30px] w-[5%] ">
             <div className="relative w-[35px] h-[35px]">
-              <Image src="/icons/Blue Bug.svg" layout="fill" />
+              <Image alt='' src="/icons/Blue Bug.svg" layout="fill" />
             </div>
           </div>
           <div className="w-[10%] flex justify-center items-center min-h-[100px] p-[10px] ">
@@ -124,7 +124,7 @@ const NewTests = () => {
             The flow of quickly adding a link to a document to the group is
             interrupted if the user clicks + more documents in the search pop-up
             <div className="relative w-[53px] h-[35px] self-end">
-              <Image src="/icons/New.svg" layout="fill" />
+              <Image alt='' src="/icons/New.svg" layout="fill" />
             </div>
           </div>
           <div className="w-[10%]">Wizzy T.</div>
@@ -134,7 +134,7 @@ const NewTests = () => {
           <div className="w-[10%] py-[10px] px-[15px]">6 minutes ago</div>
           <div className="w-[10%] py-[10px] px-[15px]s">
             <div className="relative w-[35px] h-[35px]">
-              <Image src="/icons/Eye.svg" layout="fill" />
+              <Image alt='' src="/icons/Eye.svg" layout="fill" />
             </div>
           </div>
         </div>

@@ -122,3 +122,20 @@ input {
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: 900;
 } */
+
+.modal__move {
+  animation-name: modal;
+  animation-duration: 0.5s;
+}
+
+@keyframes modal {
+  0% {
+    transform: scaleY(0);
+  }
+  80% {
+    transform: scaleY(1.1);
+  }
+  100% {
+    transform: scaleY(1);
+  }
+}

@@ -11,6 +11,7 @@ export default function Home() {
     <div>
       <Nav />
       <Intro />
+      {/* <div className="flex justify-center items-center rounded-[50%] bg-green text-white w-[2em] h-[2em]">1</div> */}
       <div className=" py-[13px]  bg-lightestgray">
         <p className="font-[700] text-center text-[18px] mb-[30px]">
           Trusted by:
