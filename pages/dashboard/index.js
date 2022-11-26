@@ -4,7 +4,6 @@ import DashboardModal from "../../components/DashboardComponents/DashboardModal"
 import { useDashboard } from "../../context/Dashboard-Context";
 import DashboardLayout from "../../layouts/DashboardLayout";
 import { PrimaryButton, WhiteButton } from "../../reusables/Buttons";
-import AuthenticatedRoute from "../../utils/Authenticatedroute";
 
 const Dashboard = () => {
   const { dashboardModal, setDashboardModal } = useDashboard();
