@@ -61,10 +61,10 @@ const AdminOverview = () => {
               <Image src="/images/Admin Step 1.svg" layout="fill" />
             </div>
             <p>
-              Go to {}
+              Go to
               <Link href="/">
                 <a className="text-blue">
-                  "https://release.betamoney.dev/manualregression"
+                  https://release.betamoney.dev/manualregression
                 </a>
               </Link>
             </p>

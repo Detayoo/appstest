@@ -21,7 +21,7 @@ const HowToUse = () => {
               <h1 className="text-[30px]">Create your team account</h1>
             </div>
             <p className="mt-[30px] text-black/70 font-[500] text-[18px]">
-              Hit the ground running as soon as you're ready. Create an account
+              Hit the ground running as soon as you are ready. Create an account
               in minutes, invite your team members and we will take care of
               every other heavy lifting for you.
             </p>

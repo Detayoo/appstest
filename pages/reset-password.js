@@ -5,7 +5,6 @@ import { PrimaryButton } from "../reusables/Buttons";
 
 import { useFormik } from "formik";
 import * as Yup from "yup";
-import { Main } from "next/document";
 
 const ResetPassword = () => {
   const [showNewPassword, setShowNewPassword] = useState(false);
